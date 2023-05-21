@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavidDemory, I'm 21
+- 👋 Hi, I’m @DavidDemory, I'm 23
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS by myself but also Big Data & IA at school
 - ♥️ I like to build projects on my free time
