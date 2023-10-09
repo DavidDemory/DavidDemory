@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David
+Hi 👋 My name is David
 ======================
 
 I've been learning Computer Science and Code for 5 years. I’m a Junior Web Developer looking for his first job opportunity.
