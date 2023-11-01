@@ -4,7 +4,7 @@ Hi 👋 My name is David
 I've been learning Computer Science and Code for 5 years. I’m a Junior Web Developer looking for his first job opportunity.
 
 * 🌍  I'm based in Lille
-* ✉️  You can contact me at [david.demory0gmail.com](mailto:david.demory0@gmail.com)
+* ✉️  You can contact me at [david.demory0@gmail.com](mailto:david.demory0@gmail.com)
 * 🚀  I'm currently working on [React.gg courses](http://react.gg/)
 * 🧠  I'm learning ReactJS and NodeJs
 
